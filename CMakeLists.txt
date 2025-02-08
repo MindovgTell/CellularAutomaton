@@ -10,7 +10,7 @@ set(CMAKE_CXX_STANDARD 17)
 find_package(SFML 2.6.1 COMPONENTS 
    system window graphics network audio REQUIRED)
 
-add_executable(${PROJECT_NAME} main.cpp CellularAutomaton.cpp DrawAutomaton.cpp)
+add_executable(${PROJECT_NAME} main.cpp Source/CellularAutomaton.cpp Source/DrawAutomaton.cpp)
 
 
 target_include_directories(${PROJECT_NAME} PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}")
