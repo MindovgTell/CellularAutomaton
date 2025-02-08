@@ -28,8 +28,6 @@ public:
     int converte_to_decimal(std::string&);
     std::string get_cell_state(int);
 
-    //void through(std::ostream&);
-
     void next_generation();
     void operator()();
 

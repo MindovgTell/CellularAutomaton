@@ -56,20 +56,6 @@ int main(int argc, char* argv[])
 	}
 
 
-    // CellularAutomaton ca(fun_num, start_state);
-
-    // for (int i = 0; i <= generation_num; ++i)
-    // {
-    //     outf << ca << '\n';
-    //     std::cout << ca << '\n';
-    // }
-
-    // std::cout << ca.get_function_number() << '\n';
-
-    //OBSLUGA DRAWAUTOMATON
-
-    //Podana liczba generacji 160 dla lepszego wyświetlenia obrazku
-
     CellularAutomaton ca;
     ca.random_state();
     ca.set_function_number(565493);
