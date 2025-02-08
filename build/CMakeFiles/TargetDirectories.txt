@@ -1,0 +1,3 @@
+/Users/egormankevich/Desktop/Yahor_Mankevich_Cells/Cells/build/CMakeFiles/Cells.dir
+/Users/egormankevich/Desktop/Yahor_Mankevich_Cells/Cells/build/CMakeFiles/edit_cache.dir
+/Users/egormankevich/Desktop/Yahor_Mankevich_Cells/Cells/build/CMakeFiles/rebuild_cache.dir
