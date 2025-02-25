@@ -1,2 +1,8 @@
-./build
-./SFML
+# ignore build files
+build
+# ignore external lib
+SFML
+# sys files
+DS_store
+
+.vscode
