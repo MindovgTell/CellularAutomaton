@@ -3,6 +3,6 @@ build
 # ignore external lib
 SFML
 # sys files
-DS_store
+.DS_store
 
 .vscode
